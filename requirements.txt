@@ -13,3 +13,5 @@ trustcall
 langgraph-cli[inmem]
 python-dotenv
 ipykernel
+langgraph-checkpoint-postgres
+psycopg2
